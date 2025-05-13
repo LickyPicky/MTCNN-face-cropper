@@ -5,7 +5,7 @@ apply various filters and options (padding, combine output, B&W),
 and save the cropped faces. Allows adjustment of detection confidence and
 bypassing of keypoint/skin-tone validation for flexibility.
 
-![Screenshot of the GUI (add one!)](link_to_your_screenshot.png) <!-- Optional: Add a screenshot -->
+![Screenshot of the GUI](Screenshot 2025-05-13 184922.png) <!-- Optional: Add a screenshot -->
 
 ## Features
 
