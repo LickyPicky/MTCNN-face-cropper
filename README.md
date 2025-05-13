@@ -95,3 +95,7 @@ If you want to create a standalone executable that doesn't require users to have
     *   Try checking "Bypass Keypoints Req." and "Bypass Skin Tone Req."
     *   The image might genuinely not have faces MTCNN can easily detect.
 *   **Large Executable Size:** This is common with PyInstaller, especially when libraries like TensorFlow are involved. `--onefile` also contributes to size.
+
+## Purpose
+
+*   The output of Final Project in Digital Image Processing (CSAC 225)
